@@ -4,5 +4,4 @@
 * 2 dimension table (Applicant_Dimension and CreditRecord_Dimension)
 * Time dimension (Time_Dimension)
 * 1 fact table (CreditCard_Fact)
-* Dashboard Visual
 ### using PDI (Pentaho Data Integration) and RDBMS (Relational Database Management System)
